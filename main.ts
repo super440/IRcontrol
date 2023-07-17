@@ -12,15 +12,15 @@ const enum IrButton {
     E = 194,
     F = 176,
     Num0 = 104,
-    Num1 = 10,
+    Num1 = 12,
     Num2 = 24,
-    Num3 = 10,
+    Num3 = 94,
     Num4 = 16,
     Num5 = 56,
     Num6 = 90,
-    Num7 = 83,
+    Num7 = 66,
     Num8 = 74,
-    Num9 = 10,
+    Num9 = 82,
     Any = -1
 }
 
