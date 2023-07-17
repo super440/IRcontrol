@@ -5,7 +5,7 @@ const enum IrButton {
     Left = 224,
     Right = 144,
     SET = 168,
-    A = 69,  // 162
+    A = 162,  // 162
     B = 98,
     C = 226,
     D = 34,
