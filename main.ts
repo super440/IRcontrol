@@ -4,13 +4,13 @@ const enum IrButton {
     Down = 152,
     Left = 224,
     Right = 144,
-	SET = 168,
+    SET = 168,
     A = 162,
     B = 98,
-	C = 226,
-	D = 34,
-	E = 194,
-	F = 176,
+    C = 226,
+    D = 34,
+    E = 194,
+    F = 176,
     Num0 = 104,
     Num1 = 10,
     Num2 = 24,
@@ -21,7 +21,7 @@ const enum IrButton {
     Num7 = 83,
     Num8 = 74,
     Num9 = 10,
-	Any = -1
+    Any = -1
 }
 
 const enum IrButtonAction {
